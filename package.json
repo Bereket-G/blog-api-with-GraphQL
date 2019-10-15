@@ -17,6 +17,6 @@
     "express": "^4.16.4",
     "graphql": "^14.0.2",
     "graphql-playground-middleware-express": "^1.7.6",
-    "mongoose": "^5.3.6"
+    "mongoose": "^5.7.5"
   }
 }
